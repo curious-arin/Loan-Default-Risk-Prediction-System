@@ -137,10 +137,6 @@ In this imbalanced loan-default problem, I prioritized recall because missing a 
 
 ## 📈 Baseline Summary
 
-## 📈 Baseline Summary
-
-## 📈 Baseline Summary
-
 | Model | Accuracy | Precision | Recall | F1-score | Status / Selection |
 |---|---:|---:|---:|---:|---|
 | **Gradient Boosting** | **0.89** | 0.86 | **0.89** | 0.84 | 🏆 **Champion (Best Overall Performance)** |
