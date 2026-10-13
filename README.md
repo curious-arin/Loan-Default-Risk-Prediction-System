@@ -26,16 +26,17 @@ Loan-Default-Risk-Prediction-System/
 ├── data/
 │   └── Loan_default.csv
 │
-├── images/                                                 # EDA charts and visualizations
-├── model/                                                  # Saved machine learning model
-│   └── loan_default_risk_model.pkl  
-│                                               
-├── notebooks/                                              # Jupyter notebooks for analysis and modeling
+├── images/                                  # EDA charts and visualizations
+│
+├── model/                                   # Saved machine learning model
+│   └── loan_default_risk_model.pkl
+│
+├── notebooks/                               # Jupyter notebooks for analysis and modeling
 │   ├── 1_Exploratory_Data_Analysis.ipynb
 │   └── 2_Data_Preparation_and_Model_Training.ipynb
 │
-├── .gitignore            
-├── app.py                                                  # Streamlit application
+├── .gitignore
+├── app.py                                   # Streamlit application
 ├── LICENSE
 ├── README.md
 └── requirements.txt
