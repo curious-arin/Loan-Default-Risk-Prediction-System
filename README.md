@@ -13,8 +13,8 @@ This project focuses on predicting loan default risk for banking and financial s
 - Financial institutions need reliable risk assessments before approving loans to prevent credit defaults.
 - Unpredictable borrower defaults can lead to severe financial losses and inefficient credit operations.
 - Default risk varies based on factors such as borrower income, debt-to-income ratio, employment stability, credit history, and loan purpose.
-- Goal: Develop a classification model that predicts loan default risk (0 for No Default, 1 for Default) using information available during loan application review.
-- Business value: Identifying high-risk borrowers early helps reduce credit losses, improves data-driven lending decisions, enhances automated and scalable risk assessment, and strengthens overall portfolio health.
+- **Goal:** Develop a classification model that predicts loan default risk (0 for No Default, 1 for Default) using information available during loan application review.
+- **Business value:** Identifying high-risk borrowers early helps reduce credit losses, improves data-driven lending decisions, enhances automated and scalable risk assessment, and strengthens overall portfolio health.
 
 -----
 
