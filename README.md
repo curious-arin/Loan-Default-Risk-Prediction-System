@@ -20,6 +20,7 @@ This project focuses on predicting loan default risk for banking and financial s
 
 ## 📂 Project Structure
 
+```bash
 Loan-Default-Risk-Prediction-System/
 │
 ├── data/
@@ -39,6 +40,7 @@ Loan-Default-Risk-Prediction-System/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 -----
 
