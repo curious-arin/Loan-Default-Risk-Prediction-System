@@ -5,7 +5,7 @@
 This project focuses on predicting loan default risk for banking and financial services. By analyzing borrower demographic, financial, employment, credit history, and loan characteristics, i have built a machine learning classification model to identify high-risk borrowers before loan approval.
 
 *The goal is to support safer, data-driven lending decisions, reduce financial losses, and strengthen credit risk management across lending operations.*
-
+   
 -----
 
 ## 💡 Problem Statement & Business Impact
