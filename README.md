@@ -67,7 +67,7 @@ Follow these steps to run the application on your local system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/neuralarin/Loan-Default-Risk-Prediction-System.git
+git clone https://github.com/curious-arin/Loan-Default-Risk-Prediction-System.git
 
 cd Loan-Default-Risk-Prediction-System
 ```
@@ -137,61 +137,61 @@ In this imbalanced loan-default problem, I prioritized recall because missing a 
 ## 📊 Data Visualization
 
 ### 1. Categorical Feature Distribution
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/categorical_feature_univariate_distributions.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/categorical_feature_univariate_distributions.png" width="100%">
 
 ### 2. Numerical Feature Distribution
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/numerical_feature_univariate_distributions.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/numerical_feature_univariate_distributions.png" width="100%">
 
 ### 3. Categorical Features by Default
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/categorical_feature_distributions_by_default.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/categorical_feature_distributions_by_default.png" width="100%">
 
 ### 4. Numerical Features by Default
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/numerical_feature_distributions_by_default.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/numerical_feature_distributions_by_default.png" width="100%">
 
 ### 5. Overall Default Rate
 **About 88.4% of customers have fully paid the loan while 11.6% customers have defaulted the loan.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/default_distribution.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/default_distribution.png" width="100%">
 
 ### 6. Default Rate — Pie Chart
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/default_pie_visualization.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/default_pie_visualization.png" width="100%">
 
 ### 7. Credit Score vs. Default
 **Credit scores look nearly identical for both successful payers and those who default on their loans.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/credit_score_distribution.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/credit_score_distribution.png" width="100%">
 
 ### 8. DTI vs. Default
 **A borrower's debt to income ratio shows almost no meaningful relationship between those who pay and those who default.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/dti_distribution.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/dti_distribution.png" width="100%">
 
 ### 9. Loan Amount vs. Default
 **Borrowers who are failing to repay their loans tend to request slightly larger loan amounts on average overall.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/loan_amount_distribution.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/loan_amount_distribution.png" width="100%">
 
 ### 10. Income vs. Default
 **People who default on their loans generally earn noticeably lower annual incomes compared to successful, reliable loan payers.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/income_distribution.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/income_distribution.png" width="100%">
 
 ### 11. Employment Stability vs. Default
 **Borrower with less employment month are tends to default more than borrower with stable employment.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/employment_stability.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/employment_stability.png" width="100%">
 
 ### 12. Employment Type vs. Default
 **Unemployed individuals show the highest risk of defaulting, while full-time workers consistently show the lowest overall risk.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/employment_types.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/employment_types.png" width="100%">
 
 ### 13. Education Level vs. Default
 **Borrowers holding only a high school diploma represent the highest risk group for failing to repay their loans.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/education_default.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/education_default.png" width="100%">
 
 ### 14. Loan Purpose vs. Default
 **Loans taken out for business purposes carry the highest default risk, while home loans remain the safest.**
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/default_by_loan_purpose.png" width="100%">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/default_by_loan_purpose.png" width="100%">
 
 ### 15. Correlation Heatmap before Feature Engineering
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/correlation_heatmap.png">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/correlation_heatmap.png">
 
 ### 16. Correlation Heatmap after Feature Engineering
-<img src="https://github.com/neuralarin/Loan-Default-Risk-Prediction-System/blob/main/images/correlation_heatmap_after_feature_engineering.png">
+<img src="https://github.com/curious-arin/Loan-Default-Risk-Prediction-System/blob/main/images/correlation_heatmap_after_feature_engineering.png">
 
 -----
 
